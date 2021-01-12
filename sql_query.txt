@@ -1,0 +1,5 @@
+INSERT INTO `personal` 
+(`id`, `img`, `alt_img`, `name`, `lastname`, `edu`, `prof`, `twit`, `link`, `banned`) 
+VALUES 
+(NULL, 'roberto', 'Roberto P.', 'Jos', 'Kostrov', 'ASP.NET Developer', 'Partner &amp; Contributor', 'atlantez', 'Walapa', '0'),
+(NULL, 'jovanni', 'Jovanni Lo', 'Jovanni', 'Lukky', 'PHP Developer', 'Partner &amp; Contributor', 'lodev09', 'lodev09', '1');

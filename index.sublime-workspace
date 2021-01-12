@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"spa",
+				"span_p_bold\t(v_main.php)"
+			],
+			[
+				"sp",
+				"span_p_bold\t(style.css)"
+			],
+			[
+				"b",
+				"bolder\tfont-weight"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"he",
+				"heading\tabc"
+			],
+			[
+				"top",
+				"top\t(mousemove.html)"
+			],
+			[
+				"c",
+				"center\tabc"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"cli",
+				"clichHandler\tabc"
+			],
+			[
+				"left",
+				"leftOffset\tabc"
+			],
+			[
+				"lef",
+				"leftOffset\tabc"
+			],
+			[
+				"co",
+				"counter\tabc"
+			],
+			[
+				"tim",
+				"timeUP\tabc"
+			],
+			[
+				"pro",
+				"prompt\t(угадай-слово2.html)"
+			],
+			[
+				"pa",
+				"param2\tabc"
+			],
+			[
+				"par",
+				"param1\tabc"
+			],
+			[
+				"fun",
+				"function\tabc"
+			],
+			[
+				"a",
+				"array2\tabc"
+			],
+			[
+				"ra",
+				"randWords\tabc"
+			],
+			[
+				"le",
+				"length\tabc"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"liverelo",
+				"LiveReload: Self test"
+			],
+			[
+				"liv",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 432.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/web/home/maski.ru/www/v/block/footer.php",
+		"/D/web/home/maski.ru/www/v/block/hihat.php",
+		"/D/web/home/maski.ru/www/success.php",
+		"/D/web/home/maski.ru/www/s/style.css",
+		"/D/web/home/maski.ru/www/v/v_index.php",
+		"/D/web/home/maski.ru/www/404.php",
+		"/D/web/home/maski.ru/www/success-email.php",
+		"/D/web/home/maski.ru/www/v/v_main.php",
+		"/D/web/home/maski.ru/www/v/block/form-order.php",
+		"/D/web/home/maski.ru/www/s/bootstrap.css",
+		"/D/web/home/maski.ru/www/v/block/navi.php",
+		"/D/web/home/maski.ru/www/v/block/our-clients.php",
+		"/D/web/home/maski.ru/www/v/block/profit.php",
+		"/D/web/home/maski.ru/www/window.php",
+		"/D/web/home/maski.ru/www/v/footer.php",
+		"/D/web/home/maski.ru/www/v/v_inside.php",
+		"/D/web/home/maski.ru/www/js/my-script.js",
+		"/C/Users/NDS/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/D/web/home/maski.ru/www/v/block/video.php",
+		"/C/Users/NDS/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/web/home/maski.ru/www/data/startup.php",
+		"/C/Users/NDS/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/D/Sites/js/dom-jquery.html",
+		"/D/Sites/js/mou-po-kvadratu-s-uskoreniem.html",
+		"/D/Sites/kraft.ru/style.css",
+		"/D/Sites/js/mousemove.html",
+		"/D/Sites/style.css",
+		"/D/Sites/js/функция.html",
+		"/D/Sites/js/угадай-слово2.html",
+		"/D/Sites/js/функция-вонючка.html",
+		"/D/Sites/js/s.css",
+		"/C/Users/Artem/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Artem/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/КП/js/function",
+		"/C/Users/Artem/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Artem/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/Artem/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
